@@ -1,0 +1,163 @@
+잘못된 III-minimize
+
+https://www.wolframalpha.com/input/?i=solve+abs%28%281%2F2+%2B+t+%2B+%282t-1%29%2F2%29%2Fsqrt%282t%29+-+1%29+%3D+abs%28%281%2Bt%29%2Fsqrt%282%29+-1%29
+
+
+
+잘못된 III-minimize 의 numeric t값
+
+https://www.wolframalpha.com/input/?i=t+%3D+1+%2B+2+sqrt%282%29+-+2+2%5E%283%2F4%29
+
+
+
+
+
+잘못된 III-minimize 의 t값에서의 오차
+
+https://www.wolframalpha.com/input/?i=abs%28%281%2F2+%2B+t+%2B+%282t-1%29%2F2%29%2Fsqrt%282t%29+-+1%29++where+t+%3D+0.464841463731331925478875543486536576979206701326758103100455132
+
+
+
+잘못된 III-minimize 의 magic number
+
+https://www.wolframalpha.com/input/?i=%2863%2B+0.4648414637313319254788755434865365769792067013267581031%29+*+%282%5E23%29+to+base+16
+
+
+
+잘못된 III-minimize 의 16진수 double magic number
+
+https://www.wolframalpha.com/input/?i=%28511+%2B+0.4648414637313319254788755434865365769792067013267581031%29+*+%282%5E52%29+to+base+16
+
+
+
+
+
+잘못된 IV-Newton
+
+https://www.wolframalpha.com/input/?i=abs%28+%28%281%2B2t%2B1+%2B+%288%29%2F%281%2B2*t%2B1%29%29%2F%284sqrt%282%29%29%29+%2F+sqrt%281%29+-1+%29+%3D+abs%28+%28%28t%2Bt+%2B+%284t%29%2F%282*t%2B2t%29%29%2F2%29%2F%28sqrt%282t%29%29+-+1%29
+
+
+
+잘못된 IV-Newton 의 numeric t값
+
+https://www.wolframalpha.com/input/?i=t+%3D+1%2F3+%28-2+%2B+%2829%2F2+-+%283+sqrt%2893%29%29%2F2%29%5E%281%2F3%29+%2B+%281%2F2+%2829+%2B+3+sqrt%2893%29%29%29%5E%281%2F3%29%29
+
+
+
+잘못된 IV-Newton 의 t값에서 오차
+
+https://www.wolframalpha.com/input/?i=abs%28+%28%281%2B2t%2B1+%2B+%288%29%2F%281%2B2*t%2B1%29%29%2F%284sqrt%282%29%29%29+%2F+sqrt%281%29+-1+%29+where+t+%3D+0.4655712318767680266567312252199391080255775684722857016431831112+
+
+
+
+잘못된 IV-Newton 의 magic number
+
+https://www.wolframalpha.com/input/?i=%2863%2B+0.4655712318767680266567312252199391080255775684722857016431831112%29*%282%5E23%29+to+base16
+
+
+
+잘못된 IV-Newton double magic number
+
+https://www.wolframalpha.com/input/?i=%28511%2B+0.4655712318767680266567312252199391080255775684722857016431831112%29*%282%5E52%29+to+base16
+
+
+
+
+
+
+
+
+
+새로운 III-minimize 에서 w0(x)의 극값
+
+https://www.wolframalpha.com/input/?i=d%2Fdx+abs%28%283%2F2+%2B+t+%2B+x%2F2%29%2F%282sqrt%28x%2B1%29%29+-+1%29+%3D+0
+
+
+
+새로운 III-minimize 에서 w1(x)의 극값
+
+https://wolfreealpha.github.io/#d%2Fdx%20abs%28%281%2F2%2B%28t%29%2Bx%2F2%29%2Fsqrt%28x%2B1%29%2d1%29%20%3D%200
+
+
+
+새로운 III-minimize 에서 w2(x)의 극값
+
+https://wolfreealpha.github.io/#d%2Fdx%20abs%28%281%2Bt%2Bx%2F2%29%2Fsqrt%282x%2B2%29%2d1%29%20%3D%200
+
+
+
+새로운 III-minimize에서 w0(1-2t)=w1(1-2t) 여부
+
+https://wolfreealpha.github.io/#abs%28%283%2F2%2Bt%2Bx%2F2%29%2F%282sqrt%28x%2B1%29%29%20%2d%201%29%20%3D%20abs%28%281%2F2%2Bt%2B%20x%2F2%29%2F%28sqrt%28x%2B1%29%29%20%2d%201%29%20where%20x%20%3D%201%2d2t
+
+
+
+새로운 III-minimize 에서 w0(x)의 plot(t=0.46)
+
+https://wolfreealpha.github.io/#plot%20abs%28%283%2F2%20%2B%200%2e46%20%2B%20x%2F2%29%2F%282sqrt%28x%2B1%29%29%20%2d%201%29%20from%20x%3D0%20to%201%2d2%2a0%2e46%2C%20y%20%3D%200%20to%200%2e05
+
+
+
+새로운 III-minimize 에서 w1(x)의 plot(t=0.46)
+
+https://www.wolframalpha.com/input/?i=plot+abs%28%281%2F2%2B%280.46%29%2Bx%2F2%29%2Fsqrt%28x%2B1%29-1%29%2C+x+%3D+%281-2*0.46%29..1%2C+y+%3D+0..0.05
+
+
+
+새로운 III-minimize 에서 w2(x)의 plot(t=0.46)
+
+https://www.wolframalpha.com/input/?i=plot+abs%28%281%2B0.46%2Bx%2F2%29%2Fsqrt%282x%2B2%29-1%29%2C+x%3D0..1%2C+y%3D0..0.05
+
+
+
+새로운  III-minimize
+
+https://wolfreealpha.github.io/#solve%20abs%281%2Fsqrt%282%2d2t%29%20%2d%201%29%20%3D%20abs%28%281%2Bt%29%2Fsqrt%282%29%20%2d%201%29%20in%20real
+
+
+
+새로운 III-minimize의 t에서 오차
+
+https://www.wolframalpha.com/input/?i=abs%281%2Fsqrt%282-2t%29+-+1%29+where+t+%3D+0.46335381287918481811898608977001817604732992977111
+
+
+
+새로운 IV-Newton 에서 w0’(x)의 극값
+
+https://wolfreealpha.github.io/#d%2Fdx%20abs%28%281%2Bt%2Bx%2F2%20%2B%20%288x%29%2F%282%2B2t%2Bx%29%29%2F%284sqrt%28x%29%29%20%2d%201%29%20%3D%200
+
+
+
+새로운 IV-Newton 에서 w1’(x)의 극값
+
+https://wolfreealpha.github.io/#d%2Fdx%20abs%28%20%28%28t%2Bx%2F2%20%2B%20%282x%29%2F%282t%2Bx%29%29%2F2%29%2F%28sqrt%28x%29%29%20%2d%201%29%20%3D%200
+
+
+
+새로운 IV-Newton 에서 w2’(x)의 극값
+
+https://wolfreealpha.github.io/#d%2Fdx%20abs%28%20%28%281%2B2t%2Bx%20%2B%20%288x%29%2F%281%2B2t%2Bx%29%29%2F%284sqrt%282%29%29%29%20%2F%20sqrt%28x%29%20%2d1%20%29%20%3D%200
+
+
+
+새로운 IV-Newton 에서 w0’(2-2t)=w1’(2-2t) 여부
+
+https://wolfreealpha.github.io/#abs%28%281%2Bt%2Bx%2F2%20%2B%20%288x%29%2F%282%2B2t%2Bx%29%29%2F%284sqrt%28x%29%29%20%2d%201%29%20%3D%20abs%28%28t%2B%20x%2F2%20%2B%20%282x%29%2F%282t%2Bx%29%29%2F%282sqrt%28x%29%29%20%2d%201%29%20where%20x%20%3D%202%2d2t
+
+
+
+새로운 IV-Newton 에서 w0’(x)의 plot(t=0.46)
+
+https://wolfreealpha.github.io/#plot%20abs%28%281%2B%280%2e46%29%2Bx%2F2%20%2B%20%288x%29%2F%282%2B2%280%2e46%29%2Bx%29%29%2F%284sqrt%28x%29%29%20%2d%201%29%2C%20x%3D1%2e%2e%282%2d2%2a0%2e46%29%2C%20y%20%3D%200%2e%2e0%2e001
+
+
+
+새로운 IV-Newton 에서 w1’(x)의 plot(t=0.46)
+
+https://wolfreealpha.github.io/#plot%20abs%28%20%28%280%2e46%2Bx%2F2%20%2B%20%282x%29%2F%282%2a0%2e46%2Bx%29%29%2F2%29%2F%28sqrt%28x%29%29%20%2d%201%29%20%20from%20x%20%3D%202%2d2%2a0%2e46%20to%202%20%2C%20y%20%3D%200%20to%200%2e001
+
+
+
+새로운 IV-Newton 에서 w2’(x)의 plot (t=0.46)
+
+https://wolfreealpha.github.io/#plot%20abs%28%20%28%281%2B2%2a0%2e4656%2Bx%20%2B%20%288x%29%2F%281%2B2%2a0%2e4656%2Bx%29%29%2F%284sqrt%282%29%29%29%20%2F%20sqrt%28x%29%20%2d1%20%29%20from%20x%20%3D%201%20to%202%2C%20y%20%3D%200%20to%200%2e001

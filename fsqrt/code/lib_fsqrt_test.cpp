@@ -2,23 +2,21 @@
 #include <iostream>
 #include <chrono>
 
-#define FROM 0.2F
-#define TO 10.16F
+#include <cstdlib>
 
 int main() {
     
+	
+
+
 	std::cout << "hello!\n";
 	auto start = std::chrono::high_resolution_clock::now();
 
 	float max = 0.0F;
-	for (float ff = FROM ;; ff = std::nextafter(ff, TO)) {
+	for (int i = 0 ; i < 10000000 ; i++) {
 
-		float f = sqrtf(ff);
+		float f = sqrtf(static_cast <float> (rand()) / (static_cast <float> (RAND_MAX/30.0F)));
 		if(max < f) max = f;
-
-		if (ff - TO > 0.0001F) {
-			break;
-		}
 
 	}
 

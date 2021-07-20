@@ -2,8 +2,7 @@
 #include <iostream>
 #include <chrono>
 
-#define FROM 0.2F
-#define TO 25.16F
+#include <cstdlib>
 
 
 float fsqrt_(float f) {
@@ -16,19 +15,16 @@ float fsqrt_(float f) {
 }
 
 int main() {
-    
+        
+
 	std::cout << "hello!\n";
 	auto start = std::chrono::steady_clock::now();
 
 	float max = 0.0F;
-	for (float ff = FROM ;; ff = std::nextafter(ff, TO)) {
+	for (int i = 0 ; i < 10000000 ; i++) {
 
-		float f = fsqrt_(ff);
+		float f = fsqrt_(static_cast <float> (rand()) / (static_cast <float> (RAND_MAX/30.0F)));
 		if(max < f) max = f;
-
-		if (ff - TO > 0.0001F) {
-			break;
-		}
 
 	}
 

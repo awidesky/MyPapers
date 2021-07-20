@@ -1,163 +1,92 @@
-Àß¸øµÈ III-minimize
-
+ì˜ëª»ëœ III-minimize
 https://www.wolframalpha.com/input/?i=solve+abs%28%281%2F2+%2B+t+%2B+%282t-1%29%2F2%29%2Fsqrt%282t%29+-+1%29+%3D+abs%28%281%2Bt%29%2Fsqrt%282%29+-1%29
 
-
-
-Àß¸øµÈ III-minimize ÀÇ numeric t°ª
-
+ì˜ëª»ëœ III-minimize ì˜ numeric tê°’
 https://www.wolframalpha.com/input/?i=t+%3D+1+%2B+2+sqrt%282%29+-+2+2%5E%283%2F4%29
 
 
-
-
-
-Àß¸øµÈ III-minimize ÀÇ t°ª¿¡¼­ÀÇ ¿ÀÂ÷
-
+ì˜ëª»ëœ III-minimize ì˜ tê°’ì—ì„œì˜ ì˜¤ì°¨
 https://www.wolframalpha.com/input/?i=abs%28%281%2F2+%2B+t+%2B+%282t-1%29%2F2%29%2Fsqrt%282t%29+-+1%29++where+t+%3D+0.464841463731331925478875543486536576979206701326758103100455132
 
-
-
-Àß¸øµÈ III-minimize ÀÇ magic number
-
+ì˜ëª»ëœ III-minimize ì˜ magic number
 https://www.wolframalpha.com/input/?i=%2863%2B+0.4648414637313319254788755434865365769792067013267581031%29+*+%282%5E23%29+to+base+16
 
-
-
-Àß¸øµÈ III-minimize ÀÇ 16Áø¼ö double magic number
-
+ì˜ëª»ëœ III-minimize ì˜ 16ì§„ìˆ˜ double magic number
 https://www.wolframalpha.com/input/?i=%28511+%2B+0.4648414637313319254788755434865365769792067013267581031%29+*+%282%5E52%29+to+base+16
 
 
-
-
-
-Àß¸øµÈ IV-Newton
-
+ì˜ëª»ëœ IV-Newton
 https://www.wolframalpha.com/input/?i=abs%28+%28%281%2B2t%2B1+%2B+%288%29%2F%281%2B2*t%2B1%29%29%2F%284sqrt%282%29%29%29+%2F+sqrt%281%29+-1+%29+%3D+abs%28+%28%28t%2Bt+%2B+%284t%29%2F%282*t%2B2t%29%29%2F2%29%2F%28sqrt%282t%29%29+-+1%29
 
-
-
-Àß¸øµÈ IV-Newton ÀÇ numeric t°ª
-
+ì˜ëª»ëœ IV-Newton ì˜ numeric tê°’
 https://www.wolframalpha.com/input/?i=t+%3D+1%2F3+%28-2+%2B+%2829%2F2+-+%283+sqrt%2893%29%29%2F2%29%5E%281%2F3%29+%2B+%281%2F2+%2829+%2B+3+sqrt%2893%29%29%29%5E%281%2F3%29%29
 
-
-
-Àß¸øµÈ IV-Newton ÀÇ t°ª¿¡¼­ ¿ÀÂ÷
-
+ì˜ëª»ëœ IV-Newton ì˜ tê°’ì—ì„œ ì˜¤ì°¨
 https://www.wolframalpha.com/input/?i=abs%28+%28%281%2B2t%2B1+%2B+%288%29%2F%281%2B2*t%2B1%29%29%2F%284sqrt%282%29%29%29+%2F+sqrt%281%29+-1+%29+where+t+%3D+0.4655712318767680266567312252199391080255775684722857016431831112+
 
-
-
-Àß¸øµÈ IV-Newton ÀÇ magic number
-
+ì˜ëª»ëœ IV-Newton ì˜ magic number
 https://www.wolframalpha.com/input/?i=%2863%2B+0.4655712318767680266567312252199391080255775684722857016431831112%29*%282%5E23%29+to+base16
 
-
-
-Àß¸øµÈ IV-Newton double magic number
-
+ì˜ëª»ëœ IV-Newton double magic number
 https://www.wolframalpha.com/input/?i=%28511%2B+0.4655712318767680266567312252199391080255775684722857016431831112%29*%282%5E52%29+to+base16
 
 
 
 
-
-
-
-
-
-»õ·Î¿î III-minimize ¿¡¼­ w0(x)ÀÇ ±Ø°ª
-
+ìƒˆë¡œìš´ III-minimize ì—ì„œ w0(x)ì˜ ê·¹ê°’
 https://www.wolframalpha.com/input/?i=d%2Fdx+abs%28%283%2F2+%2B+t+%2B+x%2F2%29%2F%282sqrt%28x%2B1%29%29+-+1%29+%3D+0
 
-
-
-»õ·Î¿î III-minimize ¿¡¼­ w1(x)ÀÇ ±Ø°ª
-
+ìƒˆë¡œìš´ III-minimize ì—ì„œ w1(x)ì˜ ê·¹ê°’
 https://wolfreealpha.github.io/#d%2Fdx%20abs%28%281%2F2%2B%28t%29%2Bx%2F2%29%2Fsqrt%28x%2B1%29%2d1%29%20%3D%200
 
-
-
-»õ·Î¿î III-minimize ¿¡¼­ w2(x)ÀÇ ±Ø°ª
-
+ìƒˆë¡œìš´ III-minimize ì—ì„œ w2(x)ì˜ ê·¹ê°’
 https://wolfreealpha.github.io/#d%2Fdx%20abs%28%281%2Bt%2Bx%2F2%29%2Fsqrt%282x%2B2%29%2d1%29%20%3D%200
 
-
-
-»õ·Î¿î III-minimize¿¡¼­ w0(1-2t)=w1(1-2t) ¿©ºÎ
-
+ìƒˆë¡œìš´ III-minimizeì—ì„œ w0(1-2t)=w1(1-2t) ì—¬ë¶€
 https://wolfreealpha.github.io/#abs%28%283%2F2%2Bt%2Bx%2F2%29%2F%282sqrt%28x%2B1%29%29%20%2d%201%29%20%3D%20abs%28%281%2F2%2Bt%2B%20x%2F2%29%2F%28sqrt%28x%2B1%29%29%20%2d%201%29%20where%20x%20%3D%201%2d2t
 
-
-
-»õ·Î¿î III-minimize ¿¡¼­ w0(x)ÀÇ plot(t=0.46)
-
+ìƒˆë¡œìš´ III-minimize ì—ì„œ w0(x)ì˜ plot(t=0.46)
 https://wolfreealpha.github.io/#plot%20abs%28%283%2F2%20%2B%200%2e46%20%2B%20x%2F2%29%2F%282sqrt%28x%2B1%29%29%20%2d%201%29%20from%20x%3D0%20to%201%2d2%2a0%2e46%2C%20y%20%3D%200%20to%200%2e05
 
-
-
-»õ·Î¿î III-minimize ¿¡¼­ w1(x)ÀÇ plot(t=0.46)
-
+ìƒˆë¡œìš´ III-minimize ì—ì„œ w1(x)ì˜ plot(t=0.46)
 https://www.wolframalpha.com/input/?i=plot+abs%28%281%2F2%2B%280.46%29%2Bx%2F2%29%2Fsqrt%28x%2B1%29-1%29%2C+x+%3D+%281-2*0.46%29..1%2C+y+%3D+0..0.05
 
-
-
-»õ·Î¿î III-minimize ¿¡¼­ w2(x)ÀÇ plot(t=0.46)
-
+ìƒˆë¡œìš´ III-minimize ì—ì„œ w2(x)ì˜ plot(t=0.46)
 https://www.wolframalpha.com/input/?i=plot+abs%28%281%2B0.46%2Bx%2F2%29%2Fsqrt%282x%2B2%29-1%29%2C+x%3D0..1%2C+y%3D0..0.05
 
-
-
-»õ·Î¿î  III-minimize
-
+ìƒˆë¡œìš´  III-minimize
 https://wolfreealpha.github.io/#solve%20abs%281%2Fsqrt%282%2d2t%29%20%2d%201%29%20%3D%20abs%28%281%2Bt%29%2Fsqrt%282%29%20%2d%201%29%20in%20real
 
-
-
-»õ·Î¿î III-minimizeÀÇ t¿¡¼­ ¿ÀÂ÷
-
+ìƒˆë¡œìš´ III-minimizeì˜ tì—ì„œ ì˜¤ì°¨
 https://www.wolframalpha.com/input/?i=abs%281%2Fsqrt%282-2t%29+-+1%29+where+t+%3D+0.46335381287918481811898608977001817604732992977111
 
-
-
-»õ·Î¿î IV-Newton ¿¡¼­ w0¡¯(x)ÀÇ ±Ø°ª
-
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ w0â€™(x)ì˜ ê·¹ê°’
 https://wolfreealpha.github.io/#d%2Fdx%20abs%28%281%2Bt%2Bx%2F2%20%2B%20%288x%29%2F%282%2B2t%2Bx%29%29%2F%284sqrt%28x%29%29%20%2d%201%29%20%3D%200
 
-
-
-»õ·Î¿î IV-Newton ¿¡¼­ w1¡¯(x)ÀÇ ±Ø°ª
-
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ w1â€™(x)ì˜ ê·¹ê°’
 https://wolfreealpha.github.io/#d%2Fdx%20abs%28%20%28%28t%2Bx%2F2%20%2B%20%282x%29%2F%282t%2Bx%29%29%2F2%29%2F%28sqrt%28x%29%29%20%2d%201%29%20%3D%200
 
-
-
-»õ·Î¿î IV-Newton ¿¡¼­ w2¡¯(x)ÀÇ ±Ø°ª
-
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ w2â€™(x)ì˜ ê·¹ê°’
 https://wolfreealpha.github.io/#d%2Fdx%20abs%28%20%28%281%2B2t%2Bx%20%2B%20%288x%29%2F%281%2B2t%2Bx%29%29%2F%284sqrt%282%29%29%29%20%2F%20sqrt%28x%29%20%2d1%20%29%20%3D%200
 
-
-
-»õ·Î¿î IV-Newton ¿¡¼­ w0¡¯(2-2t)=w1¡¯(2-2t) ¿©ºÎ
-
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ w0â€™(2-2t)=w1â€™(2-2t) ì—¬ë¶€
 https://wolfreealpha.github.io/#abs%28%281%2Bt%2Bx%2F2%20%2B%20%288x%29%2F%282%2B2t%2Bx%29%29%2F%284sqrt%28x%29%29%20%2d%201%29%20%3D%20abs%28%28t%2B%20x%2F2%20%2B%20%282x%29%2F%282t%2Bx%29%29%2F%282sqrt%28x%29%29%20%2d%201%29%20where%20x%20%3D%202%2d2t
 
-
-
-»õ·Î¿î IV-Newton ¿¡¼­ w0¡¯(x)ÀÇ plot(t=0.46)
-
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ w0â€™(x)ì˜ plot(t=0.46)
 https://wolfreealpha.github.io/#plot%20abs%28%281%2B%280%2e46%29%2Bx%2F2%20%2B%20%288x%29%2F%282%2B2%280%2e46%29%2Bx%29%29%2F%284sqrt%28x%29%29%20%2d%201%29%2C%20x%3D1%2e%2e%282%2d2%2a0%2e46%29%2C%20y%20%3D%200%2e%2e0%2e001
 
-
-
-»õ·Î¿î IV-Newton ¿¡¼­ w1¡¯(x)ÀÇ plot(t=0.46)
-
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ w1â€™(x)ì˜ plot(t=0.46)
 https://wolfreealpha.github.io/#plot%20abs%28%20%28%280%2e46%2Bx%2F2%20%2B%20%282x%29%2F%282%2a0%2e46%2Bx%29%29%2F2%29%2F%28sqrt%28x%29%29%20%2d%201%29%20%20from%20x%20%3D%202%2d2%2a0%2e46%20to%202%20%2C%20y%20%3D%200%20to%200%2e001
 
-
-
-»õ·Î¿î IV-Newton ¿¡¼­ w2¡¯(x)ÀÇ plot (t=0.46)
-
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ w2â€™(x)ì˜ plot (t=0.46)
 https://wolfreealpha.github.io/#plot%20abs%28%20%28%281%2B2%2a0%2e4656%2Bx%20%2B%20%288x%29%2F%281%2B2%2a0%2e4656%2Bx%29%29%2F%284sqrt%282%29%29%29%20%2F%20sqrt%28x%29%20%2d1%20%29%20from%20x%20%3D%201%20to%202%2C%20y%20%3D%200%20to%200%2e001
+
+
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ minimize
+https://www.wolframalpha.com/input/?i=abs%28%283-2t%29%2F%282sqrt%282-2t%29%29+-+1%29+%3D+abs%28%281%2Bt%2B2%2F%281%2Bt%29%29%2F%282sqrt%282%29%29+-+1%29+
+
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ t
+https://www.wolframalpha.com/input/?i=abs%28%283-2t%29%2F%282sqrt%282-2t%29%29+-+1%29+where+t+%3D+0.46410161513775458705489268301174473388561050762076125611161395890386603381760007416229
+
+ìƒˆë¡œìš´ IV-Newton ì—ì„œ magic number
+https://www.wolframalpha.com/input/?i=floor%28%2863%2B0.46410161513775458705489268301174473388561050762076125611161395890386603381760007416229%29*%282%5E23%29%29+to+base+16

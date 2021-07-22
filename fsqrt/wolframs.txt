@@ -1,4 +1,4 @@
-잘못된 III-minimize
+﻿잘못된 III-minimize
 https://www.wolframalpha.com/input/?i=solve+abs%28%281%2F2+%2B+t+%2B+%282t-1%29%2F2%29%2Fsqrt%282t%29+-+1%29+%3D+abs%28%281%2Bt%29%2Fsqrt%282%29+-1%29
 
 잘못된 III-minimize 의 numeric t값
@@ -88,5 +88,8 @@ https://www.wolframalpha.com/input/?i=abs%28%283-2t%29%2F%282sqrt%282-2t%29%29+-
 새로운 IV-Newton 에서 t
 https://www.wolframalpha.com/input/?i=abs%28%283-2t%29%2F%282sqrt%282-2t%29%29+-+1%29+where+t+%3D+0.46410161513775458705489268301174473388561050762076125611161395890386603381760007416229
 
-새로운 IV-Newton 에서 magic number
+새로운 IV-Newton 에서 magic number (float)
 https://www.wolframalpha.com/input/?i=floor%28%2863%2B0.46410161513775458705489268301174473388561050762076125611161395890386603381760007416229%29*%282%5E23%29%29+to+base+16
+
+새로운 IV-Newton 에서 magic number (double)
+https://www.wolframalpha.com/input/?i=floor%28%281023-floor%281023%2F2%29-1%2B0.464101615137754587054892683011744733885610507620761256111613958903866033817600074162292373514497151351252282830813406059940%29*%282%5E52%29%29+to+base+16
